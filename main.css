@@ -130,6 +130,9 @@ main {
   align-items: flex-start;
   flex: 2;
   padding: 8px 16px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  border-right: #800000 4px solid;
 }
 .plan-section--content p {
   width: 100%;

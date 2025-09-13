@@ -156,6 +156,10 @@ main {
 
   flex: 2;
   padding: $spacing--standard $spacing--large;
+  border-top-right-radius: $spacing--standard;
+  border-bottom-right-radius: $spacing--standard;
+
+  border-right: $primary-color 4px solid;
 
   p,
   ul,
